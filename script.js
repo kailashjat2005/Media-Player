@@ -2,7 +2,7 @@
 
 // all the Variables are here to use as per requirement in function
 let songIndex = 0;
-let audioElement = new Audio('Songs/1.mp3');
+let audioElement = new Audio('songs/1.mp3');
 let masterPlay = document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar');      
 let gif = document.getElementById('gif');
@@ -11,8 +11,8 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
  
-    {songName: "Hum tere bin ab", filePath: "Songs/1.mp3", },
-    {songName: "hum he dil me song", filePath: "Songs/2.mp3", },
+    {songName: "Hum tere bin ab", filePath: "songs/1.mp3", },
+    {songName: "hum he dil me song", filePath: "songs/2.mp3", },
     {songName: "Rabba mere mene kyo", filePath: "songs/3.mp3",},
     {songName: "Salam-e-Ishq", filePath: "songs/4.mp3", },
     {songName: "Bhula Dena muje", filePath: "songs/5.mp3", },

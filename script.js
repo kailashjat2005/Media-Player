@@ -11,12 +11,12 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
  
-    {songName: "Hum tere bin ab", filePath: "songs/1.mp3", },
-    {songName: "hum he dil me song", filePath: "songs/2.mp3", },
-    {songName: "Rabba mere mene kyo", filePath: "songs/3.mp3",},
-    {songName: "Salam-e-Ishq", filePath: "songs/4.mp3", },
-    {songName: "Bhula Dena muje", filePath: "songs/5.mp3", },
-     {songName: "Tumhari Kasam - kayamat", filePath: "songs/6.mp3"},
+    {songName: "Hum tere bin ab", filePath: "Songs/1.mp3", },
+    {songName: "hum he dil me song", filePath: "Songs/2.mp3", },
+    {songName: "Rabba mere mene kyo", filePath: "Songs/3.mp3",},
+    {songName: "Salam-e-Ishq", filePath: "Songs/4.mp3", },
+    {songName: "Bhula Dena muje", filePath: "Songs/5.mp3", },
+     {songName: "Tumhari Kasam - kayamat", filePath: "Songs/6.mp3"},
     
 ]
 
